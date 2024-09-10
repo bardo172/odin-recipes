@@ -1,8 +1,11 @@
-# odin-recipes
+# Recipes List
 
-This project is to practice HTML, the idea is to build a basic recipe website.
+## Links
+- [Try Recipes List here!](https://your-link.com)
 
-With this, I'm trying to learn and practice how to make a repository and an HTML webpage
+- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
-Project Link:
-https://www.theodinproject.com/lessons/foundations-recipes#project-solution
+## About
+This project is to practice HTML and CSS, the idea is to build a basic recipe website.
+It was made during the foundations course of [The Odin Project](https://www.theodinproject.com).
+
