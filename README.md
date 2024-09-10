@@ -1,7 +1,7 @@
 # Recipes List
 
 ## Links
-- [Try Recipes List here!](https://your-link.com)
+- [Try Recipes List here!](https://bardo172.github.io/odin-recipes/)
 
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
