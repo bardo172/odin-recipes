@@ -25,6 +25,13 @@ h1 {
     margin-bottom:5px;
 }
 
+p {
+    text-align:center;
+    font-size: 1.5rem;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.3em;
+}
+
 img {
     display: block;
     margin:auto;
@@ -52,6 +59,16 @@ body {
     height: fit-content;
 }
 
-.height-100vh {
-    height: 100vh;
+.item img:hover{
+    transform: scale(1.05);
+    transition: all ease ;
+    border-radius: 15px;
+    box-shadow: 0 0 5px LightSalmon;
+}
+
+#descriptionContainer {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: -35px;
 }
